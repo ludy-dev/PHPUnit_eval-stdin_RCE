@@ -20,7 +20,7 @@ The vulnerability within the /phpunit/src/Util/PHP/eval-stdin.php file through i
     /lib/phpunit/src/Util/PHP/eval-stdin.php
     /lib/phpunit/Util/PHP/eval-stdin.php
     
-This script which check the presence or absence of CVE-2017-9841 Vulnerability is based on Python2.
+This script which check the presence or absence of CVE-2017-9841 Vulnerability is based on Python3.
 
     <Usage>
     
